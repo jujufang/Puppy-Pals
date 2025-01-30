@@ -1,0 +1,36 @@
+.dog-list {
+  margin-top: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.dog-card {
+  border: 1px solid #888;
+  border-radius: 8px;
+  padding: 1rem;
+  text-align: left;
+}
+
+.dog-card h2 {
+  margin: 0 0 0.5rem 0;
+  color: #213547;
+}
+
+.dog-card p {
+  margin: 0.5rem 0;
+}
+
+.skills {
+  margin-top: 1rem;
+}
+
+.skills ul {
+  list-style-type: disc;
+  margin: 0.5rem 0 0 1.5rem;
+  padding: 0;
+}
+
+.skills li {
+  margin: 0.25rem 0;
+}
